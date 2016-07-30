@@ -3,6 +3,7 @@ package com.csform.android.uiapptemplate.adapter;
 import java.util.List;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -12,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.csform.android.uiapptemplate.DragAndDropSocialActivity;
 import com.csform.android.uiapptemplate.R;
 import com.csform.android.uiapptemplate.model.DummyModel;
 import com.csform.android.uiapptemplate.util.ImageUtil;
@@ -82,9 +84,8 @@ public class GoogleCardsShopAdapter extends ArrayAdapter<DummyModel>
 		int possition = (Integer) v.getTag();
 		switch (v.getId()) {
 		case R.id.list_item_google_cards_shop_buy:
-			// click on explore button
-			Toast.makeText(getContext(), "Buy: ", Toast.LENGTH_SHORT).show();
-			break;
+			Intent intent = new Intent(getContext(), DragAndDropSocialActivity.class);
+			getContext().startActivity(intent);
 		}
 	}
 }

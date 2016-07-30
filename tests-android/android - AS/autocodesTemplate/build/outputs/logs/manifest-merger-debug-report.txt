@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:2:1-35:12
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:3:5-47
 	android:versionName
@@ -28,7 +28,7 @@ ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesT
 	android:name
 		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:12:22-64
 application
-ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:14:5-33:19
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:14:5-34:19
 MERGED from [android - AS:android-support-v7-appcompat:unspecified] /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:17:9-41
@@ -62,3 +62,7 @@ ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesT
 		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:31:13-45
 	android:name
 		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:30:13-52
+activity#com.csform.android.uiapptemplate.DragAndDropSocialActivity
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:33:19-60

@@ -30,6 +30,7 @@
             android:name=".GoogleCardsShopActivity"
             android:label="@string/app_name">
         </activity>
+        <activity android:name=".DragAndDropSocialActivity" />
     </application>
 
 </manifest>

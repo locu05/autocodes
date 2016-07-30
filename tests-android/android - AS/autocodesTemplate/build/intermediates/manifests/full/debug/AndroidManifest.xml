@@ -30,6 +30,7 @@
             android:name="com.csform.android.uiapptemplate.GoogleCardsShopActivity"
             android:label="@string/app_name" >
         </activity>
+        <activity android:name="com.csform.android.uiapptemplate.DragAndDropSocialActivity" />
     </application>
 
 </manifest>
