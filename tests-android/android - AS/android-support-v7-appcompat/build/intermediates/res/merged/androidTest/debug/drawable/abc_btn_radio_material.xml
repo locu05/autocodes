@@ -17,4 +17,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_checked="true" android:drawable="@drawable/abc_btn_radio_to_on_mtrl_015" />
     <item android:drawable="@drawable/abc_btn_radio_to_on_mtrl_000" />
-</selector><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/drawable/abc_btn_radio_material.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/build/intermediates/bundles/debug/res/drawable/abc_btn_radio_material.xml -->
+</selector><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/drawable/abc_btn_radio_material.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/build/intermediates/bundles/debug/res/drawable/abc_btn_radio_material.xml -->

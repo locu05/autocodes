@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml
+		INJECTED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:7:5-9:41
+MERGED from [android - AS:StickyListHeaders:unspecified] /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/StickyListHeaders/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [android - AS:android-support-v7-appcompat:unspecified] /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:14:5-33:19
+MERGED from [android - AS:android-support-v7-appcompat:unspecified] /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:18:9-40
+activity#com.csform.android.uiapptemplate.MainActivity
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:26:27-74
+activity#com.csform.android.uiapptemplate.GoogleCardsShopActivity
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/AndroidManifest.xml:30:13-52

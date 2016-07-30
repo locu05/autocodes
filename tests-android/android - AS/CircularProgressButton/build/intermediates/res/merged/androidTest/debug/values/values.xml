@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/CircularProgressButton/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/CircularProgressButton/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <color name="cpb_blue">#ff0099cc</color>
     <color name="cpb_blue_dark">#ff00719b</color>

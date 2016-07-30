@@ -5,4 +5,4 @@
     <item android:state_focused="true" android:drawable="@color/psts_background_tab_pressed" />
     <item android:drawable="@android:color/transparent" />
 
-</selector><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/res/drawable/psts_background_tab.xml -->
+</selector><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/res/drawable/psts_background_tab.xml -->

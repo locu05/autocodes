@@ -23,7 +23,7 @@
             <option value="$PROJECT_DIR$/StickyListHeaders" />
             <option value="$PROJECT_DIR$/UIAppTemplate" />
             <option value="$PROJECT_DIR$/android-support-v7-appcompat" />
-            <option value="$PROJECT_DIR$/autocodes" />
+            <option value="$PROJECT_DIR$/autocodesTemplate" />
           </set>
         </option>
         <option name="myModules">
@@ -44,7 +44,7 @@
             <option value="$PROJECT_DIR$/StickyListHeaders" />
             <option value="$PROJECT_DIR$/UIAppTemplate" />
             <option value="$PROJECT_DIR$/android-support-v7-appcompat" />
-            <option value="$PROJECT_DIR$/autocodes" />
+            <option value="$PROJECT_DIR$/autocodesTemplate" />
           </set>
         </option>
       </GradleProjectSettings>

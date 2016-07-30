@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/ShapeImageView/res/values/attrs.xml -->
+    <!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/ShapeImageView/res/values/attrs.xml -->
     <eat-comment/>
     <attr name="siArrowPosition">
         <enum name="left" value="0"/>

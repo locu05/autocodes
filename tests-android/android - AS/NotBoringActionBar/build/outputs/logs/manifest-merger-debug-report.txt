@@ -1,55 +1,55 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:2:1-32:12
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:3:5-52
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:3:5-52
 	android:versionName
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:5:5-30
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:5:5-30
 	android:versionCode
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:4:5-28
-		INJECTED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml
-		INJECTED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml
+		INJECTED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:2:11-69
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:9:9-38
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:8:9-35
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:8:9-35
 application
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:11:5-30:19
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:11:5-30:19
 	android:label
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:13:9-41
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:13:9-41
 	android:allowBackup
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:12:9-35
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:14:9-45
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:14:9-45
 activity#com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:15:9-19:20
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:15:9-19:20
 	android:label
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:17:13-60
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:17:13-60
 	android:theme
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:18:13-52
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:18:13-52
 	android:name
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:16:13-91
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:16:13-91
 activity#com.flavienlaurent.notboringactionbar.MainActivity
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:20:9-29:20
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:20:9-29:20
 	android:label
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:22:13-45
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:22:13-45
 	android:icon
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:23:13-49
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:23:13-49
 	android:theme
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:24:13-74
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:24:13-74
 	android:name
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:21:13-78
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:21:13-78
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:25:13-28:29
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:26:17-69
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:26:25-66
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:27:17-77
+ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/lucas/repos/facultad/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:27:27-74
+		ADDED from /Users/locu/Proyectos/autocodes/tests-android/android - AS/NotBoringActionBar/AndroidManifest.xml:27:27-74

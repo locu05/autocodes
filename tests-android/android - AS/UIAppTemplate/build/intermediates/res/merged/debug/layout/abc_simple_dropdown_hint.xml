@@ -20,4 +20,4 @@
           android:singleLine="true"
           android:layout_margin="3dip"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content" /><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_simple_dropdown_hint.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/layout/abc_simple_dropdown_hint.xml -->
+          android:layout_height="wrap_content" /><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_simple_dropdown_hint.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/layout/abc_simple_dropdown_hint.xml -->

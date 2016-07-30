@@ -20,4 +20,4 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
               style="?attr/actionBarTabBarStyle">
-</LinearLayout><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_action_bar_view_list_nav_layout.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/layout/abc_action_bar_view_list_nav_layout.xml -->
+</LinearLayout><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_action_bar_view_list_nav_layout.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/layout/abc_action_bar_view_list_nav_layout.xml -->

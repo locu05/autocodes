@@ -20,4 +20,4 @@
         android:layout_width="?attr/panelMenuListWidth"
         android:layout_height="wrap_content"
         android:background="?attr/panelBackground"/>
-<!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_expanded_menu_layout.xml -->
+<!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/layout/abc_expanded_menu_layout.xml -->

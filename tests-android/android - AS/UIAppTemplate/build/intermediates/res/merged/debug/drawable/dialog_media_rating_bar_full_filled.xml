@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/star_red" android:state_selected="true" android:state_window_focused="true"/>
     <item android:drawable="@drawable/star_red"/>
 
-</selector><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/res/drawable/dialog_media_rating_bar_full_filled.xml -->
+</selector><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/res/drawable/dialog_media_rating_bar_full_filled.xml -->

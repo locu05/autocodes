@@ -2,60 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/home/lucas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/libs/listviewanimations_lib-core_3.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/support-annotations-24.1.1-867de20b6601d14e40d61f54cbc1cf20092761bb.jar" />
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core_3.1.0-78bb60d43c3d03fa9fab6c56450dfba260cac812.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/libs/universal-image-loader-1.9.3.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/internal_impl-24.1.1-4f70ecf8b8ec28ca8b2347ff01d13160ff85916c.jar" />
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-1f8cad395554306026507f4f63a0b237c59044ef.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/StickyListHeaders/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-c1e8b1fc9332a693624df1a4063e808b7a662dbd.jar" />
+        sha1="b2db5f5f17ef7485af3bd26be09a7b801dacbb9e">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/classes-885447d4e7059b6f9983af5f0179b294aac673c6.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/libs/nineoldandroids-2.4.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-a38f96764b07fe0f0c8a801e8e3f33c810d0ae82.jar" />
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-116cedfd770dd08eadefc023d20fedabacef8c4b.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/libs/listviewanimations_lib-core-slh_3.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-953d600aeb0c113640fe1e16d3d99ab2813e2b1e.jar" />
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core-slh_3.1.0-670d78006614afc518a30e1afdb24aa2d6cdd988.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/jars/libs/android-support-v7-appcompat.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-087cdea22145ffa508d74b2663db4fc8f4c532d2.jar" />
+        sha1="3c88b0ae4f2a995ed6957a78b5bf132986d4c538">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/android-support-v7-appcompat-f082899639126734c17ee8aa81b46f8ce57dcb5c.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/libs/listviewanimations_lib-manipulation_3.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-f684e9f936cd4b271fcb44f74622c7e5a515f3e8.jar" />
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-manipulation_3.1.0-dbb52a6e5b17eeff41b319bc30f66baf466cc2ad.jar" />
     </item>
     <item
-        jar="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/jars/libs/android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/home/lucas/repos/facultad/tests-android/android - AS/autocodes/build/intermediates/pre-dexed/debug/classes-c7bf1ab860fd6971a6a3b317c04a5f1d80f92610.jar" />
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/android-support-v4-5091dc249e0d08c2df9d43e24488bb2001aa1a32.jar" />
+    </item>
+    <item
+        jar="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/exploded-aar/android - AS/android-support-v7-appcompat/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4d2d2ea45c2ad07d0f62adf31420181ee7012e50">
+        <dex dex="/Users/locu/Proyectos/autocodes/tests-android/android - AS/autocodesTemplate/build/intermediates/pre-dexed/debug/classes-cbf6a1b76a40eabb8b973a3fcf938d9c17905307.jar" />
     </item>
 
 </items>

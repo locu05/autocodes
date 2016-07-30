@@ -240,4 +240,4 @@
         android:layout_below="@+id/header_navigation_drawer_social_image"
         android:background="@color/material_light_yellow_600" />
 
-</RelativeLayout><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/res/layout/header_navigation_drawer_social.xml -->
+</RelativeLayout><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/res/layout/header_navigation_drawer_social.xml -->

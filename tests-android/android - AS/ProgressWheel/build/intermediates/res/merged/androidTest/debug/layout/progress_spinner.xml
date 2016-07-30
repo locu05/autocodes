@@ -13,4 +13,4 @@
 		android:layout_alignTop="@id/progressImage" android:layout_alignBottom="@id/progressImage"
 		android:gravity="bottom" android:text="Please Wait..." />
 	
-</RelativeLayout><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/ProgressWheel/res/layout/progress_spinner.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/ProgressWheel/build/intermediates/bundles/debug/res/layout/progress_spinner.xml -->
+</RelativeLayout><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/ProgressWheel/res/layout/progress_spinner.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/ProgressWheel/build/intermediates/bundles/debug/res/layout/progress_spinner.xml -->

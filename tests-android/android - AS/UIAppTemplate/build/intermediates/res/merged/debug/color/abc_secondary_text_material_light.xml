@@ -18,4 +18,4 @@
     <item android:state_enabled="false" android:color="@color/secondary_text_disabled_material_light"/>
     <item android:color="@color/secondary_text_default_material_light"/>
 </selector>
-<!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/color/abc_secondary_text_material_light.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/color/abc_secondary_text_material_light.xml -->
+<!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/color/abc_secondary_text_material_light.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/color/abc_secondary_text_material_light.xml -->

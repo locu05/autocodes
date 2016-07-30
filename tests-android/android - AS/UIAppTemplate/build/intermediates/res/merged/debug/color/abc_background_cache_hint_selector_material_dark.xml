@@ -18,4 +18,4 @@
     <item android:state_accelerated="false" android:color="@color/background_material_dark" />
     <item android:color="@android:color/transparent" />
 </selector>
-<!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/android-support-v7-appcompat/res/color/abc_background_cache_hint_selector_material_dark.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/color/abc_background_cache_hint_selector_material_dark.xml -->
+<!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/android-support-v7-appcompat/res/color/abc_background_cache_hint_selector_material_dark.xml --><!-- From: file:/Users/locu/Proyectos/autocodes/tests-android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/color/abc_background_cache_hint_selector_material_dark.xml -->
