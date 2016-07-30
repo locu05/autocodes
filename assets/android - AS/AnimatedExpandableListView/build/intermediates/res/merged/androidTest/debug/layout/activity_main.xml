@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <com.idunnololz.widgets.AnimatedExpandableListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
+<!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/AnimatedExpandableListView/res/layout/activity_main.xml --><!-- From: file:/home/lucas/repos/facultad/tests-android/android%20-%20AS/AnimatedExpandableListView/build/intermediates/bundles/debug/res/layout/activity_main.xml -->
